@@ -2,6 +2,6 @@
 Nothing to see here, just my Neovim configuration files.
 
 # Requirements
-- (https://git-scm.com/downloads)[`git`], (https://github.com/BurntSushi/ripgrep)[`ripgrep`], (https://github.com/sharkdp/fd)[`fd`] and (https://www.rust-lang.org/tools/install)[`cargo`]
+- [`git`](https://git-scm.com/downloads), [`ripgrep`](https://github.com/BurntSushi/ripgrep), [`fd`](https://github.com/sharkdp/fd) and [`cargo`](https://www.rust-lang.org/tools/install)
 - a C Compiler with libstdc++
-- (https://www.nerdfonts.com/font-downloads)[Nerd Font]
+- [Nerd Font](https://www.nerdfonts.com/font-downloads)

@@ -10,11 +10,6 @@ return {
 		config = function()
 			local telescope = require("telescope")
 			telescope.setup({
-				pickers = {
-					find_files = {
-						hidden = true,
-					},
-				},
 				extensions = {
 					file_browser = {
 						theme = "ivy",
